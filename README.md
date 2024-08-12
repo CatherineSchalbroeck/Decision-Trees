@@ -2,6 +2,8 @@
 Supervised learning on the Titanic dataset using Decision Trees and including EDA.<br>
 This coding task exercises was created in the course of my Data Science Bootcamp with HyperionDev.
 
+![image3](https://th.bing.com/th/id/OIP.ABkwpn7HMs8t6slym-TgnwAAAA?rs=1&pid=ImgDetMain)
+
 ## Table fo Contents
 [Description](https://github.com/CatherineSchalbroeck/Decision-Trees/edit/main/README.md#description)<br>
 [How to install](https://github.com/CatherineSchalbroeck/Decision-Trees/edit/main/README.md#how-to-install)<br>
